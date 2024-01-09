@@ -101,3 +101,13 @@ line-height: normal;
     width: 35%;
     float: left;
 }
+.addrace{
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+background-color: linen;
+}
